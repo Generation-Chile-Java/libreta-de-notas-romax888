@@ -29,3 +29,39 @@
         - Solicita al usuario ingresar el nombre de un estudiante y una nota, luego verifica si está por sobre o por debajo del promedio general.
 6. **Validaciones:**
     - Implementa validaciones para asegurar que las notas ingresadas estén en un rango válido y que la cantidad de alumnos sea un número positivo.
+
+
+# 📘 LibretaDeNotas – Evaluador de Clases en Java
+
+Este proyecto fue desarrollado por **@romax888** como parte del proceso de formación en desarrollo Full Stack Java con **Generation Chile**. Es una aplicación de consola escrita en Java que permite ingresar, almacenar y evaluar calificaciones de estudiantes a través de estructuras como `HashMap` y `ArrayList`.
+
+---
+
+## 🎯 Objetivo del Proyecto
+
+El objetivo principal de esta aplicación es:
+
+- Practicar estructuras de datos como `HashMap` y `ArrayList`.
+- Aplicar conceptos de programación orientada a objetos (POO) en Java.
+- Implementar lógica de validación, cálculo y presentación de información.
+- Desarrollar una interfaz de usuario sencilla a través del menú en consola.
+
+---
+
+## 🛠️ Funcionalidades
+
+- 📌 Ingreso dinámico de alumnos y sus calificaciones.
+- 📊 Cálculo de promedio, nota máxima y mínima por estudiante.
+- ✅ Verificación de notas aprobatorias y reprobatorias.
+- 📈 Comparación de notas individuales con el promedio del curso.
+- 🧠 Validaciones de entrada (cantidad de alumnos, notas válidas, nombres existentes).
+- 📋 Menú interactivo que permite realizar múltiples operaciones hasta decidir salir.
+
+---
+
+## 🔧 Tecnologías Utilizadas
+
+- **Lenguaje**: Java
+- **IDE sugerido**: IntelliJ IDEA / VS Code con extensión Java
+- **Compilación y ejecución**: `javac LibretaDeNotas.java` → `java LibretaDeNotas`
+- **Control de versiones**: Git + GitHub
